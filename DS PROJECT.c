@@ -85,7 +85,7 @@ int main() {
     SeatNode* root = NULL;
     int choice, seatNumber, numberOfSeats, i;
 
-    printf("Welcome to the Cinema Ticket Booking System!\n");
+    printf("Welcome to the Cinema Ticket Booking System!!!!!!!!\n");
     int arr[]={6,3,9,2,5,8,10,1,4,7};
 
     for (i = 1; i < 10; i++) {
